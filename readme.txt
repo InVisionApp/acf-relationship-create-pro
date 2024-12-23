@@ -1,3 +1,7 @@
+| :warning: This project is no longer actively supported.
+| ---
+
+
 === Quick and Easy Post creation for ACF Relationship Fields PRO ===
 Contributors: cyrilbatillat
 Donate link: http://bazalt.fr
